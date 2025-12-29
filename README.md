@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @maxambrogi
-- 👀 I’m interested in OpenText products and software development
-- 🌱 I’m currently learning OpenText products
-- 💞️ I’m looking to collaborate on OpenText products
+- 👀 I’m interested in software development
 - 📫 How to reach me maxambrogi.com
 
 <!---
